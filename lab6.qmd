@@ -375,6 +375,6 @@ ggplot(data, aes(x = logQmean, y = .pred, colour = aridity)) +
     title = "Observed vs. Predicted Values", color = "blue"
   )
 
-## I think the plot shows that it is a decent model due to the positive slope and values that are close to the 1:1 line
+## I think the plot shows that it is a decent model due to the positive slope and values that are close to the 1:1 line 
 
 ```
